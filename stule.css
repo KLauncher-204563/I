@@ -868,6 +868,12 @@ letter-spacing: 0.22px;
 .idd-text span {
   color: #333; /* Цвет текста в <span> */
 }
+.hero {
+  background-image: url(./img/beachero.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 
 
     
